@@ -137,7 +137,7 @@ public static class Log
     }
 }
 ```
-## Class Definition
+## Usage example
 ```csharp
 static void Main(string[] args)
 {
