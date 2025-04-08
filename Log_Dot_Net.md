@@ -14,6 +14,11 @@ Install-Package NLog
 dotnet add package NLog
 ```
 
+### App.config
+```xml
+<add key="path" value="C:\Logs" />
+```
+
 ## Namespace
 ```csharp
 using NLog;
